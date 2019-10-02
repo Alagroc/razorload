@@ -37,4 +37,4 @@ Remember this is using perl, if you launch too many processes it will make your 
 You should have most of the modules already, use cpan for the rest:
 
 $ cpan
-# install HTTP::Request LWP::UserAgent HTTP::Request::Common Getopt::Long qw(GetOptions) Term::ANSIColor Carp IO::Socket IO::Socket::INET
+install HTTP::Request LWP::UserAgent HTTP::Request::Common Getopt::Long qw(GetOptions) Term::ANSIColor Carp IO::Socket IO::Socket::INET
